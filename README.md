@@ -6,8 +6,14 @@ I am a university professor, teaching courses in Artificial Intelligence, Databa
 
 I am passionate about programming and enjoy learning new things about technology every day. I also like writing books, primarily about computer science.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisespino&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisespino&theme=default) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisespino&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisespino&show_icons=true&rank_icon=github&line_height=28)]
+
+
+
 <!--
+(https://github.com/luisespino/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisespino&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisespino&theme=default) 
 **luisespino/luisespino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
