@@ -7,7 +7,7 @@ I am a university professor, teaching courses in Artificial Intelligence, Databa
 I am passionate about programming and enjoy learning new things about technology every day. I also like writing books, primarily about computer science.
 
 <div style="width: 100%;text-align: center;">
-  <img src="https://kunusoft.com/lang.php?v=6" alt="Stats">
+  <img src="https://kunusoft.com/langall.php" alt="Stats">
 </div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisespino&show_icons=true&rank_icon=github&line_height=28)
